@@ -1,5 +1,5 @@
 {
-  "name": "vue3-drr-grid-layout",
+  "name": "@piggaycheng/vue3-drr-grid-layout",
   "version": "1.9.9",
   "description": "Vue3 grid layout with resize, drag and responsive",
   "keywords": [
@@ -14,22 +14,23 @@
     "typescript"
   ],
   "author": {
-    "name": "Victor Poltoratchi",
-    "email": "poltoratchi1369@gmail.com"
+    "name": "piggaycheng",
+    "email": "piggaycheng123@gmail.com"
   },
-  "funding": {
-    "type": "paypal",
-    "url": "https://paypal.me/poltoratchi1?country.x=MD&locale.x=en_US"
-  },
+  "contributors": [
+    {
+      "name": "Victor Poltoratchi",
+      "email": "poltoratchi1369@gmail.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/piggaycheng/vue3-dragable-grid-layout",
     "directory": "packages/vue3-drr-grid-layout"
   },
-  "homepage": "https://github.com/melrose13-69/vue3-dragable-grid-layout/tree/dev/packages/vue3-drr-grid-layout",
+  "homepage": "https://github.com/piggaycheng/vue3-dragable-grid-layout/tree/dev/packages/vue3-drr-grid-layout",
   "bugs": {
-    "url": "https://github.com/melrose13-69/vue3-dragable-grid-layout/issues",
-    "email": "poltoratchi1369@gmail.com"
+    "url": "https://github.com/piggaycheng/vue3-dragable-grid-layout/issues"
   },
   "files": [
     "dist"
